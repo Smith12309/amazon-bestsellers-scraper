@@ -1,0 +1,11 @@
+{
+    "amazon_domains": [
+        "https://www.amazon.com",
+        "https://www.amazon.co.uk",
+        "https://www.amazon.de",
+        "https://www.amazon.fr",
+        "https://www.amazon.es",
+        "https://www.amazon.it"
+    ],
+    "output_formats": ["json", "csv", "xml", "excel"]
+}
